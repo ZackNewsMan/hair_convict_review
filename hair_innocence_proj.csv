@@ -1,0 +1,79 @@
+first_name,last_name,full_name,offense,offense_cleaned,CBI_lab_case_num,count_cases,agency_full,agency_first,agency_second,agency_case_num,forensic_category
+STANLEY,TOPPING,STANLEY TOPPING,"SEXUAL ASSAULT 1ST
+DEGREE",SEX ASSAULT,"D84-2469,
+D82-1221",2,"Boulder PD,
+Alamosa PD",Boulder PD,"
+Alamosa PD","P8412125,
+820194C",Association was the only forensic association to the subject.
+PATRICK,PORTLEY,PATRICK PORTLEY,"KIDNAPPING 2ND DEGREE (SEX
+ASSAULT)",SEX ASSAULT,"D88-2335, D88-2957",2,"Littleton PD, Aurora PD",Littleton PD, Aurora PD,"8812228,
+882500830",Association was the only forensic association to the subject.
+GRANVILLE,HUBBARD,GRANVILLE HUBBARD,2ND DEGREE MURDER,MURDER,"D90-0630, D01-2639",2,"Denver PD, Denver DOC",Denver PD, Denver DOC,"F9015, 65737",Association was the only forensic association to the subject.
+BENEDICT,JACKSON,BENEDICT JACKSON,SEXUAL ASSAULT 1ST DEGREE,SEX ASSAULT,"D93-1401, D94-0505",2,"DA 4th, DOC Denver",DA 4th, DOC Denver,"9120869A,
+82371",Cases did not make an association to the subject.
+WILLIAM,PEATROSS,WILLIAM PEATROSS,"KIDNAPPING 2ND
+DEGREE (SEX ASSAULT)",SEX ASSAULT,"D93-1975, D94-1843",2,"Lakewood PD, DOC Denver",Lakewood PD, DOC Denver,"9365199,
+83718",Cases did not make an association to the subject.
+RICHARD,DRAKE,RICHARD DRAKE,1ST DEGREE MURDER,MURDER,"M82-481, M83-459",2,GJ PD GJ PD,GJ PD GJ PD,#VALUE!,"8248851,
+8248851B",Cases did not make an association to the subject.
+RONALD,REGGANS,RONALD REGGANS,1ST DEGREE MURDER,MURDER,D83-2149,1,Denver PD,Denver PD,#VALUE!,F831915,Association was the only forensic association to the subject.
+JESSE,PHIFFER,JESSE PHIFFER,1ST DEGREE MURDER,MURDER,D86-1097,1,Denver PD,Denver PD,#VALUE!,F86781,Association was the only forensic association to the subject.
+STEPHEN,BECKER,STEPHEN BECKER,1ST DEGREE MURDER,MURDER,D86-2268,1,Northglenn PD,Northglenn PD,#VALUE!,866783,Association was the only forensic association to the subject.
+ERIC,BROWN,ERIC BROWN,"SEXUAL ASSAULT 1ST
+DEGREE",SEX ASSAULT,D87-0133,1,Glendale,Glendale,#VALUE!,8618522,Association was the only forensic association to the subject.
+RONALD,SANDOVAL,RONALD SANDOVAL,"KIDNAPPING 2ND
+DEGREE",KIDNAPPING 2ND DEGREE,D87-1010,1,Edgewater PD,Edgewater PD,#VALUE!,871025,Association was the only forensic association to the subject.
+KIRTIS,WILLIAMS,KIRTIS WILLIAMS,"KIDNAPPING 2ND DEGREE (SEX
+ASSAULT)",SEX ASSAULT,D88-1979,1,Denver PD,Denver PD,#VALUE!,239222,Association was the only forensic association to the subject.
+JAMES,KIRKENDALL,JAMES KIRKENDALL,1ST DEGREE MURDER,MURDER,D90-0252,1,Denver PD,Denver PD,#VALUE!,F893019,Association was the only forensic association to the subject.
+WALDO,MACKEY,WALDO MACKEY,1ST DEGREE MURDER,MURDER,D85-243,1,Denver PD,Denver PD,#VALUE!,F85157,Association was the only forensic association to the subject.
+MARTIN,WILLIAMS,MARTIN WILLIAMS,"KIDNAPPING 2ND DEGREE (SEX
+ASSAULT)",SEX ASSAULT,D94-0660,1,Denver PD,Denver PD,#VALUE!,F93-2047,Association was the only forensic association to the subject.
+MARCUS,FERNANDEZ,MARCUS FERNANDEZ,1ST DEGREE MURDER,MURDER,D92-2957,1,"CBI Denver
+Investigations","CBI Denver
+Investigations",#VALUE!,92D0179,Association was the only forensic association to the subject.
+SHELVY,REED,SHELVY REED,1ST DEGREE MURDER,MURDER,D92-2426,1,Aurora PD,Aurora PD,#VALUE!,9244469,Association was the only forensic association to the subject.
+SHANE,DAVIS,SHANE DAVIS,1ST DEGREE MURDER,MURDER,D94-0042,1,Denver PD,Denver PD,#VALUE!,F9313965,Association was the only forensic association to the subject.
+ARTHUR,MOORE,ARTHUR MOORE,1ST DEGREE MURDER,MURDER,D87-0709,1,Aurora PD,Aurora PD,#VALUE!,87525830,"Association and other CBI forensic testing also made an
+association to the subject."
+SCOTT,MUTCHLER,SCOTT MUTCHLER,1ST DEGREE MURDER,MURDER,D91-2396,1,Louisville PD,Louisville PD,#VALUE!,914236,"Association and other CBI forensic testing also made an
+association to the subject."
+JONATHAN,KASPER,JONATHAN KASPER,1ST DEGREE MURDER,MURDER,D91-3046,1,Aurora PD,Aurora PD,#VALUE!,9156440,"Association and other CBI forensic testing also made an
+association to the subject."
+MICHAEL,LOPEZ,MICHAEL LOPEZ,1ST DEGREE MURDER,MURDER,D83-566,1,Thornton PD,Thornton PD,#VALUE!,831532,"Association and other CBI forensic testing also made an
+association to the subject."
+RONALD,GARNER,RONALD GARNER,1ST DEGREE MURDER,MURDER,D82-1520,1,Arvada,Arvada,#VALUE!,8220401,"Association and other CBI forensic testing also made an
+association to the subject."
+ROBERT,BAILLIE,ROBERT BAILLIE,1ST DEGREE MURDER,MURDER,D76-3299,1,Colorado Springs PD,Colorado Springs PD,#VALUE!,76-21549,Cases did not make an association to the subject.
+JAMES,ALEXANDER,JAMES ALEXANDER,"KIDNAPPING 2ND DEGREE (SEX
+ASSAULT)",SEX ASSAULT,D85-1445,1,Denver PD,Denver PD,#VALUE!,F851655,Cases did not make an association to the subject.
+RICARDO,ROYBAL,RICARDO ROYBAL,SEXUAL ASSAULT 1ST DEGREE,SEX ASSAULT,D85-1882,1,Denver PD,Denver PD,#VALUE!,851618,Cases did not make an association to the subject.
+JOSEPH,LANDERS,JOSEPH LANDERS,1ST DEGREE MURDER,MURDER,D86-1753,1,Lincoln County SO,Lincoln County SO,#VALUE!,121F86,Cases did not make an association to the subject.
+EDWARD,COLE,EDWARD COLE,SEXUAL ASSAULT 1ST DEGREE,SEX ASSAULT,D85-1188,1,Aurora PD,Aurora PD,#VALUE!,851214830,Cases did not make an association to the subject.
+NELSON,STUBBLEFIELD,NELSON STUBBLEFIELD,1ST DEGREE MURDER,MURDER,D86-1097,1,Denver PD,Denver PD,#VALUE!,F86781,Cases did not make an association to the subject.
+GREGORY,BINKLEY,GREGORY BINKLEY,"2ND DEGREE
+MURDER",MURDER,D86-2434,1,Jefferson County DA,Jefferson County DA,#VALUE!,86-613,Cases did not make an association to the subject.
+DENNIS,GALLEGOS,DENNIS GALLEGOS,1ST DEGREE MURDER,MURDER,D86-1678,1,Denver PD,Denver PD,#VALUE!,F861403,Cases did not make an association to the subject.
+ROBERT,BACCA,ROBERT BACCA,1ST DEGREE MURDER,MURDER,D87-2694,1,Boulder PD,Boulder PD,#VALUE!,P8713913,Cases did not make an association to the subject.
+ROBERT,STRONER,ROBERT STRONER,SEXUAL ASSAULT 1ST DEGREE,SEX ASSAULT,D82-1871,1,Evans PD,Evans PD,#VALUE!,C2020-82,Cases did not make an association to the subject.
+RICHARD,SIGALA,RICHARD SIGALA,"SEXUAL ASSAULT 1ST
+DEGREE",SEX ASSAULT,D88-1277,1,Littleton PD,Littleton PD,#VALUE!,887979,Cases did not make an association to the subject.
+CARLOS,YEAZEL,CARLOS YEAZEL,1ST DEGREE MURDER,MURDER,D89-1047,1,Arvada PD,Arvada PD,#VALUE!,8935812,Cases did not make an association to the subject.
+JAMES,GREEN,JAMES GREEN,1ST DEGREE MURDER,MURDER,D92-1833,1,DOC Limon,DOC Limon,#VALUE!,9228,Cases did not make an association to the subject.
+GEORGE,SARNO,GEORGE SARNO,1ST DEGREE MURDER,MURDER,D90-1291,1,Denver PD,Denver PD,#VALUE!,F90827,Cases did not make an association to the subject.
+MONSEL,DUNGEN,MONSEL DUNGEN,1ST DEGREE MURDER,MURDER,D91-0546,1,Denver PD,Denver PD,#VALUE!,F91105,Cases did not make an association to the subject.
+ROBERT,TALLANT,ROBERT TALLANT,2ND DEGREE MURDER,MURDER,D92-0305,1,Aurora PD,Aurora PD,#VALUE!,921565,Cases did not make an association to the subject.
+CORY,ZORN,CORY ZORN,1ST DEGREE MURDER,MURDER,D92-0905,1,Northglenn PD,Northglenn PD,#VALUE!,922145,Cases did not make an association to the subject.
+MARVIN,DENNIS,MARVIN DENNIS,1ST DEGREE MURDER,MURDER,D91-1994,1,Gilpin County SO,Gilpin County SO,#VALUE!,910418,Cases did not make an association to the subject.
+ALBERTO,"MATIAS-
+MARTINEZ","ALBERTO MATIAS-
+MARTINEZ",1ST DEGREE MURDER,MURDER,D92-2434,1,Weld County SO,Weld County SO,#VALUE!,920912063,Cases did not make an association to the subject.
+RONALD,JANOUSHEK,RONALD JANOUSHEK,1ST DEGREE MURDER,MURDER,D92-2349,1,Brighton PD,Brighton PD,#VALUE!,923042,Cases did not make an association to the subject.
+ROBERT,ODELL,ROBERT ODELL,KIDNAPPING 2ND DEGREE,KIDNAPPING 2ND DEGREE,D93-0937,1,Littleton PD,Littleton PD,#VALUE!,931615,Cases did not make an association to the subject.
+MARTIN,WILLIAMS,MARTIN WILLIAMS,KIDNAPPING 2ND DEGREE (SEX ASSAULT),SEX ASSAULT,D94-0661,1,Denver PD,Denver PD,#VALUE!,F932092,Cases did not make an association to the subject.
+CHESTER,HUGGINS,CHESTER HUGGINS,1ST DEGREE MURDER,MURDER,D93-0284,1,Aurora PD,Aurora PD,#VALUE!,932424,Cases did not make an association to the subject.
+CHARLES,MCMILLIAN,CHARLES MCMILLIAN,1ST DEGREE MURDER,MURDER,D93-0303,1,Englewood PD,Englewood PD,#VALUE!,9227486,Cases did not make an association to the subject.
+KENYON,TOLERTON,KENYON TOLERTON,1ST DEGREE MURDER,MURDER,D93-2546,1,Arapahoe County SO,Arapahoe County SO,#VALUE!,9331377,Cases did not make an association to the subject.
+FREDERICK,ROBINSON,FREDERICK ROBINSON,SEXUAL ASSAULT 1ST DEGREE,SEX ASSAULT,D94-0305,1,Glendale PD,Glendale PD,#VALUE!,940420,Cases did not make an association to the subject.
+STEVEN,STALEY,STEVEN STALEY,AGGRAVATED ROBBERY,AGGRAVATED ROBBERY,D84-1849,1,Morgan County SO,Morgan County SO,#VALUE!,148284,Cases did not make an association to the subject.
+RICHARD,PIERCE,RICHARD PIERCE,SEXUAL ASSAULT 1ST DEGREE,SEX ASSAULT,D84-2654,1,Larimer County SO,Larimer County SO,#VALUE!,8420992,Cases did not make an association to the subject.
